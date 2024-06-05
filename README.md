@@ -13,7 +13,7 @@
 - `Listar autores vivos en un determinado año`: Permite consultar cuales autores o autoras se encontraban vivos en determinado año.
 - `Listar libros por idioma`: Permite consultar la lista de libros registrados en determinado idioma.
 
-## 💾:Tecnologías del proyecto
+## 💾 Tecnologías del proyecto
 
 - `Java`
 - `PostgreSQL`
