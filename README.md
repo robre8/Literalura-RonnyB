@@ -2,7 +2,7 @@
 
 <h2 align="center">:computer: Aplicación </h2>
 
-<p>Esta aplicación permite consultar la API de Gutendex por libros y autores. Cuenta con un menú de opciones para que el usuario pueda interactuar. Cada libro que se consulta es almacenado en una base de datos local la cual guarda información del libro y del autor a la vez. Además se pueden realizar consultas a esta base de datos local.</p>
+<p>Esta aplicación permite consultar la API de <a href="https://gutendex.com/""target=_blank">Gutendex</a> por libros y autores. Cuenta con un menú de opciones para que el usuario pueda interactuar. Cada libro que se consulta es almacenado en una base de datos local la cual guarda información del libro y del autor a la vez. Además se pueden realizar consultas a esta base de datos local.</p>
 
 
 ## :hammer:Funcionalidades del proyecto
