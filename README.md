@@ -20,6 +20,4 @@
 - `Spring Boot`
 - `Spring Data JPA`
 
- <h4 align="center">
-:construction: Proyecto en construcción :construction:
-</h4>
+
